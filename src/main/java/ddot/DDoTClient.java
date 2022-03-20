@@ -25,8 +25,8 @@ import org.xbill.DNS.Record;
 
 public class DDoTClient {
 	
-	public static String ZONE = "";
-	public static String SERVER_IP = "";
+	public static String ZONE = "doq.sinodun.com.";
+	public static String SERVER_IP = "18.198.201.187";
 	public static int SERVER_PORT = 853;
 	public static String TEST_TARGET = "example.com.";
 	
